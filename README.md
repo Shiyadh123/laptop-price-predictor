@@ -15,7 +15,7 @@ Install dependencies and run.
 
  ### Predicted vs Actual Values
 
-![Alt text](relative_path_to_image)
+![Alt text](Predicted_vs_Actual_Values.png)
 
 
 
